@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About LTCGearCoin</source>
-        <translation>O LTCGearCoin</translation>
+        <source>About Ponz3</source>
+        <translation>O Ponz3</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;LTCGearCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;LTCGearCoin&lt;/b&gt; verzija</translation>
+        <source>&lt;b&gt;Ponz3&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Ponz3&lt;/b&gt; verzija</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The LTCGearCoin developers</source>
+Copyright © 2014 The Ponz3 developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -63,8 +63,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your LTCGearCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>To so vaši LTCGearCoin naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
+        <source>These are your Ponz3 addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>To so vaši Ponz3 naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -78,8 +78,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a LTCGearCoin address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva LTCGearCoin naslova</translation>
+        <source>Sign a message to prove you own a Ponz3 address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva Ponz3 naslova</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -93,8 +93,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified LTCGearCoin address</source>
-        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim LTCGearCoin naslovom</translation>
+        <source>Verify a message to ensure it was signed with a specified Ponz3 address</source>
+        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim Ponz3 naslovom</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -261,8 +261,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-58"/>
-        <source>LTCGearCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>LTCGearCoin se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
+        <source>Ponz3 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Ponz3 se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -375,8 +375,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about LTCGearCoin</source>
-        <translation>Pokaži informacije o LTCGearCoin</translation>
+        <source>Show information about Ponz3</source>
+        <translation>Pokaži informacije o Ponz3</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -425,13 +425,13 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a LTCGearCoin address</source>
-        <translation>Pošlji kovance na LTCGearCoin naslov</translation>
+        <source>Send coins to a Ponz3 address</source>
+        <translation>Pošlji kovance na Ponz3 naslov</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for LTCGearCoin</source>
-        <translation>Spremeni nastavitve za LTCGearCoin</translation>
+        <source>Modify configuration options for Ponz3</source>
+        <translation>Spremeni nastavitve za Ponz3</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -470,8 +470,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-202"/>
-        <source>LTCGearCoin</source>
-        <translation>LTCGearCoin</translation>
+        <source>Ponz3</source>
+        <translation>Ponz3</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -480,8 +480,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About LTCGearCoin</source>
-        <translation>&amp;O LTCGearCoin</translation>
+        <source>&amp;About Ponz3</source>
+        <translation>&amp;O Ponz3</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -537,13 +537,13 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>LTCGearCoin client</source>
-        <translation>LTCGearCoin program</translation>
+        <source>Ponz3 client</source>
+        <translation>Ponz3 program</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to LTCGearCoin network</source>
-        <translation><numerusform>%n aktivne povezave na LTCGearCoin omrežje</numerusform><numerusform>%n aktivnih povezav na LTCGearCoin omrežje</numerusform><numerusform>%n aktivnih povezav na LTCGearCoin omrežje</numerusform><numerusform>%n aktivnih povezav na LTCGearCoin omrežje</numerusform></translation>
+        <source>%n active connection(s) to Ponz3 network</source>
+        <translation><numerusform>%n aktivne povezave na Ponz3 omrežje</numerusform><numerusform>%n aktivnih povezav na Ponz3 omrežje</numerusform><numerusform>%n aktivnih povezav na Ponz3 omrežje</numerusform><numerusform>%n aktivnih povezav na Ponz3 omrežje</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -582,12 +582,12 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-312"/>
-        <source>About LTCGearCoin card</source>
+        <source>About Ponz3 card</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about LTCGearCoin card</source>
+        <source>Show information about Ponz3 card</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -667,8 +667,8 @@ Naslov: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid LTCGearCoin address or malformed URI parameters.</source>
-        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega LTCGearCoin naslova ali slabih parametrov URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Ponz3 address or malformed URI parameters.</source>
+        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega Ponz3 naslova ali slabih parametrov URI.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -727,8 +727,8 @@ Naslov: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. LTCGearCoin can no longer continue safely and will quit.</source>
-        <translation>Prišlo je do usodne napake. Program LTCGearCoin se ne more več varno nadaljevati in se bo zato zaprl. </translation>
+        <source>A fatal error occurred. Ponz3 can no longer continue safely and will quit.</source>
+        <translation>Prišlo je do usodne napake. Program Ponz3 se ne more več varno nadaljevati in se bo zato zaprl. </translation>
     </message>
 </context>
 <context>
@@ -1061,8 +1061,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid LTCGearCoin address.</source>
-        <translation>Vneseni naslov &quot;%1&quot; ni veljaven LTCGearCoin naslov.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Ponz3 address.</source>
+        <translation>Vneseni naslov &quot;%1&quot; ni veljaven Ponz3 naslov.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1080,8 +1080,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>LTCGearCoin-Qt</source>
-        <translation>LTCGearCoin-Qt</translation>
+        <source>Ponz3-Qt</source>
+        <translation>Ponz3-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1153,13 +1153,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start LTCGearCoin after logging in to the system.</source>
-        <translation>Avtomatično zaženi LTCGearCoin ob zagonu sistema.</translation>
+        <source>Automatically start Ponz3 after logging in to the system.</source>
+        <translation>Avtomatično zaženi Ponz3 ob zagonu sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start LTCGearCoin on system login</source>
-        <translation>&amp;Zaženi LTCGearCoin ob prijavi v sistem</translation>
+        <source>&amp;Start Ponz3 on system login</source>
+        <translation>&amp;Zaženi Ponz3 ob prijavi v sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1178,8 +1178,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the LTCGearCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avtomatično odpri vrata na routerju za LTCGearCoin program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
+        <source>Automatically open the Ponz3 client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avtomatično odpri vrata na routerju za Ponz3 program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1188,8 +1188,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the LTCGearCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Poveži se na LTCGearCoin omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
+        <source>Connect to the Ponz3 network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Poveži se na Ponz3 omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1263,8 +1263,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting LTCGearCoin.</source>
-        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu LTCGearCoin aplikacije. </translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Ponz3.</source>
+        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu Ponz3 aplikacije. </translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1278,8 +1278,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show LTCGearCoin addresses in the transaction list or not.</source>
-        <translation>Izbira prikaza LTCGearCoin naslovov v seznamu transakcij.</translation>
+        <source>Whether to show Ponz3 addresses in the transaction list or not.</source>
+        <translation>Izbira prikaza Ponz3 naslovov v seznamu transakcij.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1325,8 +1325,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting LTCGearCoin.</source>
-        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu LTCGearCoin aplikacije</translation>
+        <source>This setting will take effect after restarting Ponz3.</source>
+        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu Ponz3 aplikacije</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1344,8 +1344,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the LTCGearCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z LTCGearCoin omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Ponz3 network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z Ponz3 omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1560,8 +1560,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the LTCGearCoin-Qt help message to get a list with possible LTCGearCoin command-line options.</source>
-        <translation>Prikaži LTCGearCoin-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice LTCGearCoin aplikacije</translation>
+        <source>Show the Ponz3-Qt help message to get a list with possible Ponz3 command-line options.</source>
+        <translation>Prikaži Ponz3-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice Ponz3 aplikacije</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1580,13 +1580,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>LTCGearCoin - Debug window</source>
-        <translation>LTCGearCoin - okno za odpravljanje napak</translation>
+        <source>Ponz3 - Debug window</source>
+        <translation>Ponz3 - okno za odpravljanje napak</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>LTCGearCoin Core</source>
-        <translation>LTCGearCoin jedro</translation>
+        <source>Ponz3 Core</source>
+        <translation>Ponz3 jedro</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1595,8 +1595,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the LTCGearCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Odpri LTCGearCoin datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
+        <source>Open the Ponz3 debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Odpri Ponz3 datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1605,8 +1605,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the LTCGearCoin RPC console.</source>
-        <translation>Dobrodošli v LTCGearCoin RPC konzoli.</translation>
+        <source>Welcome to the Ponz3 RPC console.</source>
+        <translation>Dobrodošli v Ponz3 RPC konzoli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1764,8 +1764,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a LTCGearCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Vnesite LTCGearCoin naslov (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Ponz3 address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Vnesite Ponz3 naslov (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1864,8 +1864,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid LTCGearCoin address</source>
-        <translation>OPOZORILO: Neveljaven LTCGearCoin naslov</translation>
+        <source>WARNING: Invalid Ponz3 address</source>
+        <translation>OPOZORILO: Neveljaven Ponz3 naslov</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1938,8 +1938,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a LTCGearCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Vnesite LTCGearCoin naslov (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Ponz3 address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Vnesite Ponz3 naslov (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1999,8 +1999,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this LTCGearCoin address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva LTCGearCoin naslova</translation>
+        <source>Sign the message to prove you own this Ponz3 address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva Ponz3 naslova</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2031,8 +2031,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified LTCGearCoin address</source>
-        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim LTCGearCoin naslovom</translation>
+        <source>Verify the message to ensure it was signed with the specified Ponz3 address</source>
+        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim Ponz3 naslovom</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2042,8 +2042,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a LTCGearCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Vnesite LTCGearCoin naslov (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Ponz3 address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Vnesite Ponz3 naslov (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2052,8 +2052,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter LTCGearCoin signature</source>
-        <translation>Vnesite LTCGearCoin podpis</translation>
+        <source>Enter Ponz3 signature</source>
+        <translation>Vnesite Ponz3 podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2623,8 +2623,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>LTCGearCoin version</source>
-        <translation>LTCGearCoin različica</translation>
+        <source>Ponz3 version</source>
+        <translation>Ponz3 različica</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2633,7 +2633,7 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or LTCGearCoind</source>
+        <source>Send command to -server or Ponz3d</source>
         <translation>Pošlji ukaz na -server ali blackoind</translation>
     </message>
     <message>
@@ -2653,13 +2653,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: LTCGearCoin.conf)</source>
-        <translation>Določi konfiguracijsko datoteko (privzeto: LTCGearCoin.conf)</translation>
+        <source>Specify configuration file (default: Ponz3.conf)</source>
+        <translation>Določi konfiguracijsko datoteko (privzeto: Ponz3.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: LTCGearCoind.pid)</source>
-        <translation>Določi pid datoteko (privzeto: LTCGearCoin.pid)</translation>
+        <source>Specify pid file (default: Ponz3d.pid)</source>
+        <translation>Določi pid datoteko (privzeto: Ponz3.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2808,8 +2808,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong LTCGearCoin will not work properly.</source>
-        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno LTCGearCoin ne bo deloval.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Ponz3 will not work properly.</source>
+        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno Ponz3 ne bo deloval.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2998,24 +2998,24 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=LTCGearCoinrpc
+rpcuser=Ponz3rpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;LTCGearCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Ponz3 Alert&quot; admin@foo.com
 </source>
         <translation>%s, nastaviti morate rpcgeslo v konfiguracijski datoteki: 
  %s
 Priporočeno je, da uporabite naslednje naključno geslo:
-rpcuser=LTCGearCoinrpc
+rpcuser=Ponz3rpc
 rpcpassword=%s
 (tega gesla si vam ni potrebno zapomniti)
 Uporabniško ime in geslo NE SMETA biti ista. 
 Če datoteka ne obstaja, jo ustvarite z lastniškimi dovoljenji za datoteke. 
 Prav tako je priporočeno, da nastavite alernotify, tkako da vas opozori na probleme;
-na primer: alertnotify=echo %%s | mail -s &quot;LTCGearCoin Alarm&quot; admin@foo.com
+na primer: alertnotify=echo %%s | mail -s &quot;Ponz3 Alarm&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3140,13 +3140,13 @@ na primer: alertnotify=echo %%s | mail -s &quot;LTCGearCoin Alarm&quot; admin@fo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  LTCGearCoin is probably already running.</source>
-        <translation>Ni bilo mogoče najti podatkovnega imenika %s. Aplikacija LTCGearCoin je verjetno že zagnana.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Ponz3 is probably already running.</source>
+        <translation>Ni bilo mogoče najti podatkovnega imenika %s. Aplikacija Ponz3 je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>LTCGearCoin</source>
-        <translation>LTCGearCoin</translation>
+        <source>Ponz3</source>
+        <translation>Ponz3</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3180,13 +3180,13 @@ na primer: alertnotify=echo %%s | mail -s &quot;LTCGearCoin Alarm&quot; admin@fo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of LTCGearCoin</source>
-        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo LTCGearCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Ponz3</source>
+        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo Ponz3</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart LTCGearCoin to complete</source>
-        <translation>Denarnica mora biti prepisana: ponovno odprite LTCGearCoin za dokončanje</translation>
+        <source>Wallet needed to be rewritten: restart Ponz3 to complete</source>
+        <translation>Denarnica mora biti prepisana: ponovno odprite Ponz3 za dokončanje</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3255,8 +3255,8 @@ na primer: alertnotify=echo %%s | mail -s &quot;LTCGearCoin Alarm&quot; admin@fo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. LTCGearCoin is probably already running.</source>
-        <translation>Navezava v %s  na tem računalniku ni mogoča LTCGearCoin aplikacija je verjetno že zagnana.</translation>
+        <source>Unable to bind to %s on this computer. Ponz3 is probably already running.</source>
+        <translation>Navezava v %s  na tem računalniku ni mogoča Ponz3 aplikacija je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-97"/>

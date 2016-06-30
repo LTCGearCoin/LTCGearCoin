@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About LTCGearCoin</source>
-        <translation>О LTCGearCoin</translation>
+        <source>About Ponz3</source>
+        <translation>О Ponz3</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;LTCGearCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;LTCGearCoin&lt;/b&gt; версия</translation>
+        <source>&lt;b&gt;Ponz3&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Ponz3&lt;/b&gt; версия</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The LTCGearCoin developers</source>
+Copyright © 2014 The Ponz3 developers</source>
         <translation>Все права защищены © 2009-2014 Разработчики Bitcoin
 Все права защищены © 2012-2014 Разработчики NovaCoin
-Все права защищены © 2014 Разработчики LTCGearCoin</translation>
+Все права защищены © 2014 Разработчики Ponz3</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,7 +65,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your LTCGearCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your Ponz3 addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Это Ваши адреса для получения платежей. Вы можете дать разные адреса отправителям, чтобы отслеживать, кто именно вам платит.</translation>
     </message>
     <message>
@@ -80,8 +80,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a LTCGearCoin address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом LTCGearCoin</translation>
+        <source>Sign a message to prove you own a Ponz3 address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом Ponz3</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified LTCGearCoin address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом LTCGearCoin</translation>
+        <source>Verify a message to ensure it was signed with a specified Ponz3 address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом Ponz3</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,7 +263,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>LTCGearCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>Ponz3 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation>Сейчас программа закроется для завершения процесса шифрования. Помните, что шифрование вашего бумажника не может полностью защитить ваши монеты от кражи с помощью инфицирования вашего компьютера вредоносным ПО.</translation>
     </message>
     <message>
@@ -377,8 +377,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about LTCGearCoin</source>
-        <translation>Показать информацию о LTCGearCoin&apos;е</translation>
+        <source>Show information about Ponz3</source>
+        <translation>Показать информацию о Ponz3&apos;е</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a LTCGearCoin address</source>
-        <translation>Отправить монеты на указанный адрес LTCGearCoin</translation>
+        <source>Send coins to a Ponz3 address</source>
+        <translation>Отправить монеты на указанный адрес Ponz3</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for LTCGearCoin</source>
-        <translation>Изменить параметры конфигурации LTCGearCoin</translation>
+        <source>Modify configuration options for Ponz3</source>
+        <translation>Изменить параметры конфигурации Ponz3</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-202"/>
-        <source>LTCGearCoin</source>
-        <translation>LTCGearCoin</translation>
+        <source>Ponz3</source>
+        <translation>Ponz3</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About LTCGearCoin</source>
-        <translation>&amp;О LTCGearCoin</translation>
+        <source>&amp;About Ponz3</source>
+        <translation>&amp;О Ponz3</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,12 +539,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>LTCGearCoin client</source>
-        <translation>LTCGearCoin клиент</translation>
+        <source>Ponz3 client</source>
+        <translation>Ponz3 клиент</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to LTCGearCoin network</source>
+        <source>%n active connection(s) to Ponz3 network</source>
         <translation><numerusform>%n активное соединение с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform></translation>
     </message>
     <message>
@@ -584,12 +584,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-312"/>
-        <source>About LTCGearCoin card</source>
-        <translation>О карте LTCGearCoin</translation>
+        <source>About Ponz3 card</source>
+        <translation>О карте Ponz3</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about LTCGearCoin card</source>
+        <source>Show information about Ponz3 card</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -669,8 +669,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid LTCGearCoin address or malformed URI parameters.</source>
-        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом LTCGearCoin или неправильными параметрами URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Ponz3 address or malformed URI parameters.</source>
+        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом Ponz3 или неправильными параметрами URI.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -729,8 +729,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. LTCGearCoin can no longer continue safely and will quit.</source>
-        <translation>Произошла неисправимая ошибка. LTCGearCoin не может безопасно продолжать работу и будет закрыт.</translation>
+        <source>A fatal error occurred. Ponz3 can no longer continue safely and will quit.</source>
+        <translation>Произошла неисправимая ошибка. Ponz3 не может безопасно продолжать работу и будет закрыт.</translation>
     </message>
 </context>
 <context>
@@ -1049,8 +1049,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid LTCGearCoin address.</source>
-        <translation>Введённый адрес &quot;%1&quot; не является правильным LTCGearCoin-адресом.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Ponz3 address.</source>
+        <translation>Введённый адрес &quot;%1&quot; не является правильным Ponz3-адресом.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1068,8 +1068,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>LTCGearCoin-Qt</source>
-        <translation>LTCGearCoin-Qt</translation>
+        <source>Ponz3-Qt</source>
+        <translation>Ponz3-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1141,13 +1141,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start LTCGearCoin after logging in to the system.</source>
-        <translation>Автоматически запускать LTCGearCoin после входа в систему</translation>
+        <source>Automatically start Ponz3 after logging in to the system.</source>
+        <translation>Автоматически запускать Ponz3 после входа в систему</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start LTCGearCoin on system login</source>
-        <translation>&amp;Запускать LTCGearCoin при входе в систему</translation>
+        <source>&amp;Start Ponz3 on system login</source>
+        <translation>&amp;Запускать Ponz3 при входе в систему</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1166,8 +1166,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the LTCGearCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматически открыть порт для LTCGearCoin-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
+        <source>Automatically open the Ponz3 client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматически открыть порт для Ponz3-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1176,8 +1176,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the LTCGearCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Подключаться к сети LTCGearCoin через прокси SOCKS (например, при подключении через Tor).</translation>
+        <source>Connect to the Ponz3 network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Подключаться к сети Ponz3 через прокси SOCKS (например, при подключении через Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1251,8 +1251,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting LTCGearCoin.</source>
-        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска LTCGearCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Ponz3.</source>
+        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска Ponz3.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1266,8 +1266,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show LTCGearCoin addresses in the transaction list or not.</source>
-        <translation>Показывать ли адреса LTCGearCoin в списке транзакций.</translation>
+        <source>Whether to show Ponz3 addresses in the transaction list or not.</source>
+        <translation>Показывать ли адреса Ponz3 в списке транзакций.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1313,8 +1313,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting LTCGearCoin.</source>
-        <translation>Эта настройка вступит в силу после перезапуска LTCGearCoin</translation>
+        <source>This setting will take effect after restarting Ponz3.</source>
+        <translation>Эта настройка вступит в силу после перезапуска Ponz3</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1332,8 +1332,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the LTCGearCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью LTCGearCoin после подключения, но этот процесс пока не завершён.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Ponz3 network after a connection is established, but this process has not completed yet.</source>
+        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью Ponz3 после подключения, но этот процесс пока не завершён.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1548,8 +1548,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the LTCGearCoin-Qt help message to get a list with possible LTCGearCoin command-line options.</source>
-        <translation>Показать помощь по LTCGearCoin-Qt, чтобы получить список доступных параметров командной строки.</translation>
+        <source>Show the Ponz3-Qt help message to get a list with possible Ponz3 command-line options.</source>
+        <translation>Показать помощь по Ponz3-Qt, чтобы получить список доступных параметров командной строки.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1568,13 +1568,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>LTCGearCoin - Debug window</source>
-        <translation>LTCGearCoin - Окно отладки</translation>
+        <source>Ponz3 - Debug window</source>
+        <translation>Ponz3 - Окно отладки</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>LTCGearCoin Core</source>
-        <translation>Ядро LTCGearCoin</translation>
+        <source>Ponz3 Core</source>
+        <translation>Ядро Ponz3</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1583,8 +1583,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the LTCGearCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Открыть отладочный лог-файл LTCGearCoin из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
+        <source>Open the Ponz3 debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Открыть отладочный лог-файл Ponz3 из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1593,8 +1593,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the LTCGearCoin RPC console.</source>
-        <translation>Добро пожаловать в RPC-консоль LTCGearCoin.</translation>
+        <source>Welcome to the Ponz3 RPC console.</source>
+        <translation>Добро пожаловать в RPC-консоль Ponz3.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1752,8 +1752,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a LTCGearCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Введите LTCGearCoin-адрес (например B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Ponz3 address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Введите Ponz3-адрес (например B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1852,7 +1852,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid LTCGearCoin address</source>
+        <source>WARNING: Invalid Ponz3 address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1926,8 +1926,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a LTCGearCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Введите LTCGearCoin-адрес (например B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Ponz3 address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Введите Ponz3-адрес (например B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1987,8 +1987,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this LTCGearCoin address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом LTCGearCoin</translation>
+        <source>Sign the message to prove you own this Ponz3 address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом Ponz3</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2019,8 +2019,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified LTCGearCoin address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом LTCGearCoin</translation>
+        <source>Verify the message to ensure it was signed with the specified Ponz3 address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом Ponz3</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2030,8 +2030,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a LTCGearCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Введите адрес LTCGearCoin (напр. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Ponz3 address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Введите адрес Ponz3 (напр. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2040,8 +2040,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter LTCGearCoin signature</source>
-        <translation>Введите подпись LTCGearCoin</translation>
+        <source>Enter Ponz3 signature</source>
+        <translation>Введите подпись Ponz3</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2611,7 +2611,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>LTCGearCoin version</source>
+        <source>Ponz3 version</source>
         <translation>Версия</translation>
     </message>
     <message>
@@ -2621,8 +2621,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or LTCGearCoind</source>
-        <translation>Отправить команду на -server или LTCGearCoind</translation>
+        <source>Send command to -server or Ponz3d</source>
+        <translation>Отправить команду на -server или Ponz3d</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2642,13 +2642,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: LTCGearCoin.conf)</source>
-        <translation>Указать конфигурационный файл (по умолчанию: LTCGearCoin.conf)</translation>
+        <source>Specify configuration file (default: Ponz3.conf)</source>
+        <translation>Указать конфигурационный файл (по умолчанию: Ponz3.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: LTCGearCoind.pid)</source>
-        <translation>Указать pid-файл (по умолчанию: LTCGearCoind.pid)</translation>
+        <source>Specify pid file (default: Ponz3d.pid)</source>
+        <translation>Указать pid-файл (по умолчанию: Ponz3d.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2797,8 +2797,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong LTCGearCoin will not work properly.</source>
-        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, LTCGearCoin будет работать некорректно.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Ponz3 will not work properly.</source>
+        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, Ponz3 будет работать некорректно.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2987,13 +2987,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=LTCGearCoinrpc
+rpcuser=Ponz3rpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;LTCGearCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Ponz3 Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -3119,13 +3119,13 @@ for example: alertnotify=echo %%s | mail -s &quot;LTCGearCoin Alert&quot; admin@
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  LTCGearCoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  Ponz3 is probably already running.</source>
         <translation>Невозможно установить блокировку на рабочую директорию %s.  Возможно, бумажник уже запущен.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>LTCGearCoin</source>
-        <translation>LTCGearCoin</translation>
+        <source>Ponz3</source>
+        <translation>Ponz3</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3159,13 +3159,13 @@ for example: alertnotify=echo %%s | mail -s &quot;LTCGearCoin Alert&quot; admin@
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of LTCGearCoin</source>
-        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию LTCGearCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Ponz3</source>
+        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию Ponz3</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart LTCGearCoin to complete</source>
-        <translation>Необходимо перезаписать бумажник, перезапустите LTCGearCoin для завершения операции</translation>
+        <source>Wallet needed to be rewritten: restart Ponz3 to complete</source>
+        <translation>Необходимо перезаписать бумажник, перезапустите Ponz3 для завершения операции</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3234,8 +3234,8 @@ for example: alertnotify=echo %%s | mail -s &quot;LTCGearCoin Alert&quot; admin@
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. LTCGearCoin is probably already running.</source>
-        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, LTCGearCoin уже работает.</translation>
+        <source>Unable to bind to %s on this computer. Ponz3 is probably already running.</source>
+        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, Ponz3 уже работает.</translation>
     </message>
     <message>
         <location line="-97"/>

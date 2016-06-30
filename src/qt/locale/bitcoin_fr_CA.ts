@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About LTCGearCoin</source>
-        <translation>Au sujet de LTCGearCoin</translation>
+        <source>About Ponz3</source>
+        <translation>Au sujet de Ponz3</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;LTCGearCoin&lt;/b&gt; version</source>
-        <translation>Version de &lt;b&gt;LTCGearCoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Ponz3&lt;/b&gt; version</source>
+        <translation>Version de &lt;b&gt;Ponz3&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The LTCGearCoin developers</source>
+Copyright © 2014 The Ponz3 developers</source>
         <translation>Copyright © 2009-2014 Les développeurs Bitcoin
 Copyright © 2012-2014 Les développeurs NovaCoin
-Copyright © 2014 Les développeurs LTCGearCoin</translation>
+Copyright © 2014 Les développeurs Ponz3</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,7 +65,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your LTCGearCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your Ponz3 addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Ce sont vos adresses pour recevoir vos paiements. Vous pouvez utiliser une adresse différente pour chaque réception afin d&apos;identifier facilement le payeur.</translation>
     </message>
     <message>
@@ -80,8 +80,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a LTCGearCoin address</source>
-        <translation>Signer un message afin de valider l&apos;identité de votre adresse LTCGearCoin</translation>
+        <source>Sign a message to prove you own a Ponz3 address</source>
+        <translation>Signer un message afin de valider l&apos;identité de votre adresse Ponz3</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified LTCGearCoin address</source>
-        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse LTCGearCoin spécifique.</translation>
+        <source>Verify a message to ensure it was signed with a specified Ponz3 address</source>
+        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse Ponz3 spécifique.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -237,7 +237,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation>ATTENTION : Si vous cryptez votre portefeuille et perdez votre passphrase, vous ne pourrez plus accéder à vos LTCGearCoins</translation>
+        <translation>ATTENTION : Si vous cryptez votre portefeuille et perdez votre passphrase, vous ne pourrez plus accéder à vos Ponz3s</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -263,8 +263,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>LTCGearCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>L&apos;application LTCGearCoin va désormais se terminer afin de finaliser le processus de cryptage. Merci de noter que le cryptage du portefeuille ne garantit pas de se prémunir du vol via l&apos;utilisation de malware, qui auraient pu infecter votre ordinateur. </translation>
+        <source>Ponz3 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>L&apos;application Ponz3 va désormais se terminer afin de finaliser le processus de cryptage. Merci de noter que le cryptage du portefeuille ne garantit pas de se prémunir du vol via l&apos;utilisation de malware, qui auraient pu infecter votre ordinateur. </translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about LTCGearCoin</source>
-        <translation>Afficher des informations au sujet du LTCGearCoin</translation>
+        <source>Show information about Ponz3</source>
+        <translation>Afficher des informations au sujet du Ponz3</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a LTCGearCoin address</source>
-        <translation>Envoyer des monnaies vers une adresse LTCGearCoin</translation>
+        <source>Send coins to a Ponz3 address</source>
+        <translation>Envoyer des monnaies vers une adresse Ponz3</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for LTCGearCoin</source>
-        <translation>Modification des options de configuration de LTCGearCoin</translation>
+        <source>Modify configuration options for Ponz3</source>
+        <translation>Modification des options de configuration de Ponz3</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-202"/>
-        <source>LTCGearCoin</source>
-        <translation>LTCGearCoin</translation>
+        <source>Ponz3</source>
+        <translation>Ponz3</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About LTCGearCoin</source>
-        <translation>A propos de LTCGearCoin</translation>
+        <source>&amp;About Ponz3</source>
+        <translation>A propos de Ponz3</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>LTCGearCoin client</source>
-        <translation>Client LTCGearCoin</translation>
+        <source>Ponz3 client</source>
+        <translation>Client Ponz3</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to LTCGearCoin network</source>
-        <translation><numerusform>%n connexion active au réseau LTCGearCoin</numerusform><numerusform>%n connexions actives au réseau LTCGearCoin</numerusform></translation>
+        <source>%n active connection(s) to Ponz3 network</source>
+        <translation><numerusform>%n connexion active au réseau Ponz3</numerusform><numerusform>%n connexions actives au réseau Ponz3</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -584,13 +584,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-312"/>
-        <source>About LTCGearCoin card</source>
-        <translation>Au sujet de la carte LTCGearCoin</translation>
+        <source>About Ponz3 card</source>
+        <translation>Au sujet de la carte Ponz3</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about LTCGearCoin card</source>
-        <translation>Informations sur la carte LTCGearCoin</translation>
+        <source>Show information about Ponz3 card</source>
+        <translation>Informations sur la carte Ponz3</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -669,8 +669,8 @@ Adresse : %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid LTCGearCoin address or malformed URI parameters.</source>
-        <translation>L&apos;adresse du portefeuille LTCGearCoin n&apos;as pas pu être correctement identifiée, car invalide ou malformée.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Ponz3 address or malformed URI parameters.</source>
+        <translation>L&apos;adresse du portefeuille Ponz3 n&apos;as pas pu être correctement identifiée, car invalide ou malformée.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -729,8 +729,8 @@ Adresse : %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. LTCGearCoin can no longer continue safely and will quit.</source>
-        <translation>Une erreur fatale a été rencontrée. L&apos;application LTCGearCoin ne peut plus être s&apos;exécuter de façon correcte et doit se terminer.</translation>
+        <source>A fatal error occurred. Ponz3 can no longer continue safely and will quit.</source>
+        <translation>Une erreur fatale a été rencontrée. L&apos;application Ponz3 ne peut plus être s&apos;exécuter de façon correcte et doit se terminer.</translation>
     </message>
 </context>
 <context>
@@ -1063,8 +1063,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid LTCGearCoin address.</source>
-        <translation>L&apos;adresse &quot;%1&quot; renseignée n&apos;est pas une adresse LTCGearCoin valide.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Ponz3 address.</source>
+        <translation>L&apos;adresse &quot;%1&quot; renseignée n&apos;est pas une adresse Ponz3 valide.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1082,8 +1082,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>LTCGearCoin-Qt</source>
-        <translation>LTCGearCoin-Qt</translation>
+        <source>Ponz3-Qt</source>
+        <translation>Ponz3-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1155,13 +1155,13 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start LTCGearCoin after logging in to the system.</source>
-        <translation>Démarrage automatique du client LTCGearCoin lors de la connexion au système</translation>
+        <source>Automatically start Ponz3 after logging in to the system.</source>
+        <translation>Démarrage automatique du client Ponz3 lors de la connexion au système</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start LTCGearCoin on system login</source>
-        <translation>&amp;Démarrage du client LTCGearCoin à la connexion au système</translation>
+        <source>&amp;Start Ponz3 on system login</source>
+        <translation>&amp;Démarrage du client Ponz3 à la connexion au système</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1180,8 +1180,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the LTCGearCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Ouverture automatique du port client de LTCGearCoin sur le routeur. Ceci ne fonctionne que dans le cas où le support UPnP sur votre routeur existe et est actif.</translation>
+        <source>Automatically open the Ponz3 client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Ouverture automatique du port client de Ponz3 sur le routeur. Ceci ne fonctionne que dans le cas où le support UPnP sur votre routeur existe et est actif.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1190,8 +1190,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the LTCGearCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connexion au réseau LTCGearCoin à travers un proxy SOCKS (e.g. Connexion via le réseau Tor).</translation>
+        <source>Connect to the Ponz3 network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connexion au réseau Ponz3 à travers un proxy SOCKS (e.g. Connexion via le réseau Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1265,8 +1265,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting LTCGearCoin.</source>
-        <translation>La langue d&apos;interface de de l&apos;utilisateur peut être définie ici. Ces modification seront effectives après redémarrage de l&apos;application LTCGearCoin</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Ponz3.</source>
+        <translation>La langue d&apos;interface de de l&apos;utilisateur peut être définie ici. Ces modification seront effectives après redémarrage de l&apos;application Ponz3</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1280,8 +1280,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show LTCGearCoin addresses in the transaction list or not.</source>
-        <translation>Afficher les adresses LTCGearCoin au sein de la liste de transactions</translation>
+        <source>Whether to show Ponz3 addresses in the transaction list or not.</source>
+        <translation>Afficher les adresses Ponz3 au sein de la liste de transactions</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1327,8 +1327,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting LTCGearCoin.</source>
-        <translation>Les paramètres prendront effet après redémarrage du client LTCGearCoin</translation>
+        <source>This setting will take effect after restarting Ponz3.</source>
+        <translation>Les paramètres prendront effet après redémarrage du client Ponz3</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1346,8 +1346,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the LTCGearCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Les informations affichées peuvent être obsolètes. Votre portefeuille se synchronise automatiquement avec le réseau LTCGearCoin mais ce processus n&apos;est pas encore terminé.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Ponz3 network after a connection is established, but this process has not completed yet.</source>
+        <translation>Les informations affichées peuvent être obsolètes. Votre portefeuille se synchronise automatiquement avec le réseau Ponz3 mais ce processus n&apos;est pas encore terminé.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1562,8 +1562,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the LTCGearCoin-Qt help message to get a list with possible LTCGearCoin command-line options.</source>
-        <translation>Afficher le message d&apos;aide LTCGearCoin-Qt afin d&apos;obtenir la liste des options de de L&apos;outil en ligne de commande LTCGearCoin</translation>
+        <source>Show the Ponz3-Qt help message to get a list with possible Ponz3 command-line options.</source>
+        <translation>Afficher le message d&apos;aide Ponz3-Qt afin d&apos;obtenir la liste des options de de L&apos;outil en ligne de commande Ponz3</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1582,13 +1582,13 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="-104"/>
-        <source>LTCGearCoin - Debug window</source>
-        <translation>LTCGearCoin - Fenêtre de déboggage</translation>
+        <source>Ponz3 - Debug window</source>
+        <translation>Ponz3 - Fenêtre de déboggage</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>LTCGearCoin Core</source>
-        <translation>LTCGearCoin Core</translation>
+        <source>Ponz3 Core</source>
+        <translation>Ponz3 Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1597,8 +1597,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the LTCGearCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Ouvrir le fichier journal de debug LTCGearCoin au sein du répertoire courant. Cette opération peut prendre quelques secondes dans le cas de fichiers journaux volumineux.</translation>
+        <source>Open the Ponz3 debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Ouvrir le fichier journal de debug Ponz3 au sein du répertoire courant. Cette opération peut prendre quelques secondes dans le cas de fichiers journaux volumineux.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1607,8 +1607,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the LTCGearCoin RPC console.</source>
-        <translation>Bienvenue sur la console LTCGearCoin RPC.</translation>
+        <source>Welcome to the Ponz3 RPC console.</source>
+        <translation>Bienvenue sur la console Ponz3 RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1766,8 +1766,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a LTCGearCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse LTCGearCoin (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Ponz3 address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Entrer une adresse Ponz3 (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1866,8 +1866,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid LTCGearCoin address</source>
-        <translation>AVERTISSEMENT: Adresse LTCGearCoin Invalide</translation>
+        <source>WARNING: Invalid Ponz3 address</source>
+        <translation>AVERTISSEMENT: Adresse Ponz3 Invalide</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1877,7 +1877,7 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location line="+4"/>
         <source>WARNING: unknown change address</source>
-        <translation>AVERTISSEMET: Adresse LTCGearCoin Invalide</translation>
+        <translation>AVERTISSEMET: Adresse Ponz3 Invalide</translation>
     </message>
 </context>
 <context>
@@ -1940,8 +1940,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a LTCGearCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse LTCGearCoin (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Ponz3 address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Entrer une adresse Ponz3 (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1965,7 +1965,7 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse LTCGearCoin (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <translation>Entrer une adresse Ponz3 (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2001,8 +2001,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this LTCGearCoin address</source>
-        <translation>Signer le message afin de prouver l&apos;identité de votre adresse LTCGearCoin</translation>
+        <source>Sign the message to prove you own this Ponz3 address</source>
+        <translation>Signer le message afin de prouver l&apos;identité de votre adresse Ponz3</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2033,8 +2033,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified LTCGearCoin address</source>
-        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse LTCGearCoin spécifique.</translation>
+        <source>Verify the message to ensure it was signed with the specified Ponz3 address</source>
+        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse Ponz3 spécifique.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2044,8 +2044,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a LTCGearCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse LTCGearCoin (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Ponz3 address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Entrer une adresse Ponz3 (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2054,8 +2054,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter LTCGearCoin signature</source>
-        <translation>Entrer une signature LTCGearCoin</translation>
+        <source>Enter Ponz3 signature</source>
+        <translation>Entrer une signature Ponz3</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2625,8 +2625,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>LTCGearCoin version</source>
-        <translation>Version LTCGearCoin</translation>
+        <source>Ponz3 version</source>
+        <translation>Version Ponz3</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2635,8 +2635,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or LTCGearCoind</source>
-        <translation>Envoyer commande à -server ou LTCGearCoind</translation>
+        <source>Send command to -server or Ponz3d</source>
+        <translation>Envoyer commande à -server ou Ponz3d</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2655,13 +2655,13 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: LTCGearCoin.conf)</source>
-        <translation>Spécifier le fichier de configuration (defaut: LTCGearCoin.conf)</translation>
+        <source>Specify configuration file (default: Ponz3.conf)</source>
+        <translation>Spécifier le fichier de configuration (defaut: Ponz3.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: LTCGearCoind.pid)</source>
-        <translation>Spécifier le fichier pid (defaut: LTCGearCoind.pid)
+        <source>Specify pid file (default: Ponz3d.pid)</source>
+        <translation>Spécifier le fichier pid (defaut: Ponz3d.pid)
 </translation>
     </message>
     <message>
@@ -2811,8 +2811,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong LTCGearCoin will not work properly.</source>
-        <translation>Avertissement: Veuillez vérifier la date et l&apos;heure de votre ordinateur. LTCGearCoin ne pourra pas fonctionner correctement si l&apos;horloge est réglée de façon incorrecte</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Ponz3 will not work properly.</source>
+        <translation>Avertissement: Veuillez vérifier la date et l&apos;heure de votre ordinateur. Ponz3 ne pourra pas fonctionner correctement si l&apos;horloge est réglée de façon incorrecte</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3001,24 +3001,24 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=LTCGearCoinrpc
+rpcuser=Ponz3rpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;LTCGearCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Ponz3 Alert&quot; admin@foo.com
 </source>
         <translation>%s, vous devez définir un mot de passe rpc &apos;rpcpassword&apos; au sein du fichier de configuration:
  %s
 Il est recommandé d&apos;utiliser le mot de passe aléatoire suivant:
-rpcuser=LTCGearCoinrpc
+rpcuser=Ponz3rpc
 rpcpassword=%s
 (il n&apos;est pas nécessaire de retenir ce mot de passe)
 Le nom d&apos;utilisateur et le mot de passe doivent IMPERATIVEMENT être différents.
 Si le fichier n&apos;existe pas, il est nécessaire de le créer, avec les droit de lecture au propriétaire seulement.
 Il est également recommandé d&apos;utiliser l&apos;option alertnotify afin d&apos;être notifié des problèmes;
-par exemple: alertnotify=echo %%s | mail -s &quot;Alerte LTCGearCoin&quot; admin@foo.com
+par exemple: alertnotify=echo %%s | mail -s &quot;Alerte Ponz3&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3143,13 +3143,13 @@ par exemple: alertnotify=echo %%s | mail -s &quot;Alerte LTCGearCoin&quot; admin
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  LTCGearCoin is probably already running.</source>
-        <translation>Echec lors de la tentative de verrouillage des données du répertoire %s. L&apos;application LTCGearCoin est probablement déjà en cours d&apos;exécution</translation>
+        <source>Cannot obtain a lock on data directory %s.  Ponz3 is probably already running.</source>
+        <translation>Echec lors de la tentative de verrouillage des données du répertoire %s. L&apos;application Ponz3 est probablement déjà en cours d&apos;exécution</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>LTCGearCoin</source>
-        <translation>LTCGearCoin</translation>
+        <source>Ponz3</source>
+        <translation>Ponz3</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3183,13 +3183,13 @@ par exemple: alertnotify=echo %%s | mail -s &quot;Alerte LTCGearCoin&quot; admin
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of LTCGearCoin</source>
-        <translation>Erreur de chargement du fichier wallet.dat: le portefeuille nécessite une version plus récente de l&apos;application LTCGearCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Ponz3</source>
+        <translation>Erreur de chargement du fichier wallet.dat: le portefeuille nécessite une version plus récente de l&apos;application Ponz3</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart LTCGearCoin to complete</source>
-        <translation>le portefeuille nécessite d&apos;être réédité : Merci de relancer l&apos;application LTCGearCoin</translation>
+        <source>Wallet needed to be rewritten: restart Ponz3 to complete</source>
+        <translation>le portefeuille nécessite d&apos;être réédité : Merci de relancer l&apos;application Ponz3</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3258,8 +3258,8 @@ par exemple: alertnotify=echo %%s | mail -s &quot;Alerte LTCGearCoin&quot; admin
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. LTCGearCoin is probably already running.</source>
-        <translation>Connexion au port %s impossible. L&apos;application LTCGearCoin est probablement déjà en cours d&apos;exécution</translation>
+        <source>Unable to bind to %s on this computer. Ponz3 is probably already running.</source>
+        <translation>Connexion au port %s impossible. L&apos;application Ponz3 est probablement déjà en cours d&apos;exécution</translation>
     </message>
     <message>
         <location line="-97"/>

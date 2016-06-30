@@ -68,7 +68,7 @@ map<uint256, set<uint256> > mapOrphanTransactionsByPrev;
 // Constant stuff for coinbase transactions we create:
 CScript COINBASE_FLAGS;
 
-const string strMessageMagic = "LTCGearCoin Signed Message:\n";
+const string strMessageMagic = "Ponz3 Signed Message:\n";
 
 // Settings
 int64_t nTransactionFee = MIN_TX_FEE;
@@ -982,12 +982,17 @@ int64_t GetProofOfWorkReward(int64_t nFees)
         return nSubsidy + nFees;
       }      
       
-    else if (pindexBest->nHeight >= 318000)
+    else if (pindexBest->nHeight <= 538000)
       {
         int64_t nSubsidy = 10 * COIN;
         return nSubsidy + nFees;
       }      
-	  
+      
+    else if (pindexBest->nHeight >= 538001)
+      {
+        int64_t nSubsidy = 1000 * COIN;
+        return nSubsidy + nFees;
+      }   	  
       
     if (fDebug && GetBoolArg("-printcreation"))
     printf("GetProofOfWorkReward() : create=%s nSubsidy=%"PRId64"\n", FormatMoney(nSubsidy).c_str(), nSubsidy);
@@ -1014,7 +1019,7 @@ int64_t GetProofOfStakeRewardV2(int64_t nCoinAge, int64_t nFees)
   
     if(pindexBest->nHeight > 318000)
     {
-        nSubsidy = 10 * COIN; 
+        nSubsidy = 1000 * COIN; 
     }
 
     	
@@ -2446,7 +2451,7 @@ bool CheckDiskSpace(uint64_t nAdditionalBytes)
         string strMessage = _("Warning: Disk space is low!");
         strMiscWarning = strMessage;
         printf("*** %s\n", strMessage.c_str());
-        uiInterface.ThreadSafeMessageBox(strMessage, "LTCGearCoin", CClientUIInterface::OK | CClientUIInterface::ICON_EXCLAMATION | CClientUIInterface::MODAL);
+        uiInterface.ThreadSafeMessageBox(strMessage, "Ponz3", CClientUIInterface::OK | CClientUIInterface::ICON_EXCLAMATION | CClientUIInterface::MODAL);
         StartShutdown();
         return false;
     }

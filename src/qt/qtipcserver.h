@@ -1,8 +1,8 @@
 #ifndef QTIPCSERVER_H
 #define QTIPCSERVER_H
 
-// Define LTCGearCoin-Qt message queue name
-#define BITCOINURI_QUEUE_NAME "LTCGearCoinURI"
+// Define Ponz3-Qt message queue name
+#define BITCOINURI_QUEUE_NAME "Ponz3URI"
 
 void ipcScanRelay(int argc, char *argv[]);
 void ipcInit(int argc, char *argv[]);
